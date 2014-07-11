@@ -1,0 +1,4 @@
+*** Gravity Forms Dashicon ***
+
+2014.07.11 - version 1.0.0
+ * First release.
