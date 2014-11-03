@@ -15,7 +15,7 @@ Replaces the default Gravity Forms menu icon with a Dashicon. It has no use othe
 
 == Installation ==
 
-1. Upload and activate the plugin.
+Upload and activate the plugin.
 
 == Frequently Asked Questions ==
 
