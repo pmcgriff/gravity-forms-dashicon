@@ -1,5 +1,5 @@
 === Gravity Forms Dashicon ===
-Contributors: galengidman
+Contributors: GalenGidman
 Tags: icon, ui, dashicon, dash icon, menu icon, gravity forms, gravity forms menu icon, gravity forms dashicon
 Requires at least: 3.8
 Tested up to: 4.0
